@@ -1,4 +1,4 @@
-# branch.html
+# Branch.html
 1.	Branch		: Membuat sebuah cabang/fitur baru tanpa mengubah jalur utamanya
 2.	Pull Request	: Permintaan untuk menggabungkan sebuah kode
 3.	Merge		: Menggabungkan komit dari branchke master branch
